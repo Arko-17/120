@@ -1,0 +1,30 @@
+.copy-right-footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(indigo, pink);
+    line-height: 3;
+    font-family: cursive;
+    font-size: 15px;
+    color: lawngreen;
+}
+#ob{
+    font-size: 20px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 6px 3px 28px grey;
+    color: hotpink;
+}
+.outcome{
+    font-size: 15px;
+    color: aqua;
+}
+body{
+    background-image: linear-gradient(turquoise, indigo);
+    text-align: center;
+}
+#images{
+    width: 200;
+    height: 200;
+}
